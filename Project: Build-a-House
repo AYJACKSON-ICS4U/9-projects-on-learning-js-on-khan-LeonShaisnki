@@ -49,11 +49,11 @@ draw = function()
         fill(143, 24, 217);
         
         //loop that draws the roof (the roof is actually           just a bunch of ellipses drawn closely together by         this loop
-        /*for (var n=x1; n<x2; n++)
+        for (var n=x1; n<x2; n++)
         {
             fill(252, 28, 28);
             ellipse(n, y, 2, 2);   
-        }*/
+        }
 
         
     }
